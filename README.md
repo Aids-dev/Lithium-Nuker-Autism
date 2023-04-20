@@ -11,4 +11,4 @@ dont download the zip in the green buttom that says code download it from the re
 
 </div>
 
-+ [Iknack](https://github.com/Iknack) - Released Lithium nuker
++ [Iknack](https://github.com/Iknack) - having Lithium nuker
